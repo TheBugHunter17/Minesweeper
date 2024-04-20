@@ -27,3 +27,4 @@ In Minesweeper, the player is presented with a grid of tiles. Some tiles contain
 Simply open the link provided below and paste it on the web browser to start playing Minesweeper.
 
 ##Hosted link 
+https://thebughunter17.github.io/Minesweeper/
